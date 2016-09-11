@@ -1,0 +1,8 @@
+System,Entities,Attributes,Activities,Events, State variables
+ cafeteria,Customers; employees,lunch and breakfast menu. ,eating lunch/breakfast,lunch time; arrival: departure of customers,number of customers eating lunch
+ grocery store,Customers; shoppers; employees,groceries,"buying , selling; returning groceries",grocery business hours,"number of employees, number of customers; level of grocery inventory"
+ laundromat,Customers; employees,washing and drying machines,washing and drying cloths,"machine wash, dry start and finish; ",number of washing and drying machines; number of customers
+fast food restaurant,Customers; employees,food menu ,serving food; cooking food. ,arrival: departure of customers and employees,number of customers eating lunch/dinner; number of employees working in lunch and dinner shifts
+ hospital emergency room,patients; doctors;     nurses,surgery; diagnosis; treatment,treating patients; performing a surgery,arrival: discharge,number of doctors nurses and hospital staff working; number of patients treated
+taxi cab company with 10 taxis,taxies; customers; drivers,"age, type, and color of cabs; ",picking up and dropping off customers ,trips duration for each taxi; ,number of customers using taxies 
+An automobile assembly line,parts; tools; robots,chassis; body,Interior assembly; painting ,start and finish of auto assembly; ,number of cars assembled; number of employees/robots worked to assemble autos
